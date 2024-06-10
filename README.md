@@ -11,7 +11,7 @@ Se consumió el api pública utilizando el framework laravel en su versión más
 
 ### Tiempo y lugar
 
-- Me disculpo por no poder emplear las 24h para la prueba de conocimientos, tuve algunos inconvenientes. Muchas gracias por su oportunidad lo hice lo mejor que pude.
+- Me disculpo por no poder emplear las 24h para la prueba de conocimientos, tuve algunos inconvenientes. pero cumplí los requerimientos funcionales de la prueba.
 
 ## License
 
