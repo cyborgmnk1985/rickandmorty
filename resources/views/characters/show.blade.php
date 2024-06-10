@@ -8,6 +8,8 @@
 
 @section('content')
 
+    <h1 class="mb-4 text-center">{{ $character['name'] }}</h1>
+
     <div class="card vertical-card mx-auto">
         <img src="{{ $character['image'] }}" class="card-img-top" alt="{{ $character['name'] }}">
         <div class="card-body">
