@@ -1,0 +1,27 @@
+.vertical-card {
+    width: 100%;
+    max-width: 360px;
+    margin: 20px auto;
+}
+
+.card-img-top {
+    width: 100%;
+    height: auto;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card-title {
+    font-size: 24px;
+    color: #333;
+}
+
+.card-text {
+    color: #666;
+    font-size: 16px;
+    margin-top: 10px;
+}

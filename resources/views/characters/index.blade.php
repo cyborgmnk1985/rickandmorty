@@ -2,6 +2,10 @@
 
 @section('title', 'Rick and Morty Characters')
 
+@section('styles')
+    <link rel="stylesheet" href="{{ asset('css/list.css') }}">
+@endsection
+
 @section('content')
     <h1 class="mb-4 text-center">Rick and Morty Characters</h1>
 
